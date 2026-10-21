@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Adhishesan B! 👋
 
-<!--
-**adhishesan-cs/adhishesan-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year CSE (Cybersecurity) student
 
-Here are some ideas to get you started:
+💻 Learning programming and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Exploring Python and C++
+
+🤖 Interested in Artificial Intelligence and Software Development
+
+🚀 Building my skills one step at a time!
+
+## Current Focus
+- Strengthening programming fundamentals
+- Practicing coding problems
+- Learning new technologies
+
+Thanks for visiting my profile! 😊
